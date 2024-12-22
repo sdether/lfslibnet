@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeMonitor", "TimeMonitor.csproj", "{6DA5C0FD-F312-45CD-AA9B-108F1D4383AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeMonitor", "TimeMonitor.csproj", "{6DA5C0FD-F312-45CD-AA9B-108F1D4383AD}"
 	ProjectSection(WebsiteProperties) = preProject
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.Debug = "False"

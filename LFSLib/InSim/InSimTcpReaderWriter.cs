@@ -28,7 +28,6 @@ using System.Text;
 using System.Threading;
 using log4net;
 using FullMotion.LiveForSpeed;
-using System.Runtime.Remoting.Messaging;
 
 namespace FullMotion.LiveForSpeed.InSim
 {

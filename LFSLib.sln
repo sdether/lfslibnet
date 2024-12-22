@@ -1,12 +1,12 @@
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{C78EB080-70C4-457B-AA19-2E28C0032180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{C78EB080-70C4-457B-AA19-2E28C0032180}"
 	ProjectSection(WebsiteProperties) = preProject
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.Debug = "False"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFSLib", "LFSLib\LFSLib.csproj", "{4A90281C-B741-4539-B27E-45BEBEEEC513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LFSLib", "LFSLib\LFSLib.csproj", "{4A90281C-B741-4539-B27E-45BEBEEEC513}"
 	ProjectSection(WebsiteProperties) = preProject
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.Debug = "False"

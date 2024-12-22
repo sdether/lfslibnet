@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 9.00
 # Visual Studio 2005
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateInspector", "StateInspector.csproj", "{1E417D96-770F-468F-850A-583F2D2EACE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateInspector", "StateInspector.csproj", "{1E417D96-770F-468F-850A-583F2D2EACE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
